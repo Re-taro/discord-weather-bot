@@ -1,0 +1,11 @@
+{
+    "yahoo":{
+        "appid":"dj00aiZpPXdQSVM0SEg2VGRHVCZzPWNvbnN1bWVyc2VjcmV0Jng9OTg-"
+    },
+    "openweathermap":{
+        "key":"7497bc1158ac1b83caca6a78647f5d9d"
+    },
+    "discord":{
+        "token":"NzgyMjI2NDQ3NDIyNTg2OTAx.X8JHJg.OWo-LfHnnoPRR4FEYuCe3ZAmqWI"
+    }
+}
